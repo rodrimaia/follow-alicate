@@ -1,2 +1,3 @@
 BeautifulSoup
 nose
+nose-watch
